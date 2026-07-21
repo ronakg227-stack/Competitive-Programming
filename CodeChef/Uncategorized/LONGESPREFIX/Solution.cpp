@@ -1,0 +1,1 @@
+// Solution for LONGESPREFIX on CodeChef
